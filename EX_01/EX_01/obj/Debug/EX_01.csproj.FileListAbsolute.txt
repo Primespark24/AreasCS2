@@ -1,0 +1,7 @@
+C:\Users\bmartin22\homework2\EX_01\EX_01\bin\Debug\EX_01.exe.config
+C:\Users\bmartin22\homework2\EX_01\EX_01\bin\Debug\EX_01.exe
+C:\Users\bmartin22\homework2\EX_01\EX_01\bin\Debug\EX_01.pdb
+C:\Users\bmartin22\homework2\EX_01\EX_01\obj\Debug\EX_01.csprojAssemblyReference.cache
+C:\Users\bmartin22\homework2\EX_01\EX_01\obj\Debug\EX_01.csproj.CoreCompileInputs.cache
+C:\Users\bmartin22\homework2\EX_01\EX_01\obj\Debug\EX_01.exe
+C:\Users\bmartin22\homework2\EX_01\EX_01\obj\Debug\EX_01.pdb
