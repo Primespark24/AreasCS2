@@ -19,9 +19,9 @@ namespace EX_01
             int side = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("How long are your sides");
             sideLen = Convert.ToInt32(Console.ReadLine());
-            double area = side * sideLen;
-            Console.WriteLine("Your perimeter is :" + area);
-            return area;
+            double edge = side * sideLen;
+            Console.WriteLine("Your perimeter is :" + edge);
+            return edge;
         }
     }
     }

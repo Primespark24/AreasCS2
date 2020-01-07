@@ -17,9 +17,9 @@ namespace EX_01
         {
             Console.WriteLine("how long is your radius?");
             radius = Convert.ToInt32(Console.ReadLine());
-            double area = 3.14 * radius * radius;
-            Console.WriteLine("Your perimeter is :" + area);
-            return area;
+            double edge = 3.14 * radius * radius;
+            Console.WriteLine("Your perimeter is :" + edge);
+            return edge;
         }
     }
     }

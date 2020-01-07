@@ -19,7 +19,7 @@ namespace EX_01
         public virtual double perimeter()
         {
             Console.WriteLine("No area on a Generic shape");
-            Console.WriteLine("Unkown area");
+            Console.WriteLine("Unkown perimeter");
             return 0.0;
         }
 
