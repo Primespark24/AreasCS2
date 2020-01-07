@@ -8,10 +8,13 @@ namespace EX_01
     public class Square : EqPolygon
     {
         public double sideLen;
-
         public override double perimeter()
         {
-            return sideLen + sideLen + sideLen + sideLen;
+            Console.WriteLine("how long are your sides?");
+            sideLen = Convert.ToInt32(Console.ReadLine());
+            double area = sideLen + sideLen + sideLen + sideLen;
+            Console.WriteLine("Your perimeter is :" + area);
+            return area;
         }
     }
 }
