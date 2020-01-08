@@ -13,26 +13,26 @@ namespace Ex_03
             Radio r = new Radio();
             bool quit = false;
             
-            Console.WriteLine("Would you like to turn on the radio?"); 
+            Console.WriteLine("Would you like to turn on the radio? Yes or No"); 
             string choice = Console.ReadLine();
             
             if (choice.ToLower().Contains("yes"))
             {
                 r.toggle();
                 Console.WriteLine("You hear the satisfying click of the switch and the static of the radio");
-                do
-                {
+                //do
+                //{
                     r.tune();
-                    Console.WriteLine("Wanna continue? Yes or No");
-                    string response = Console.ReadLine();
+                 //   Console.WriteLine("Wanna continue? Yes or No");
+                 //   string response = Console.ReadLine();
 
                     
-                    if (response.ToLower().Contains("no"))
-                    {
-                        quit = true;
-                    }
+                 //   if (response.ToLower().Contains("no"))
+                 //   {
+                 //       quit = true;
+                 //   }
 
-                } while (!quit);
+              //  } while (!quit);
                 
             }
             else

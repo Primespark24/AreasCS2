@@ -36,7 +36,7 @@ namespace Ex_03
                     retune = true;
                     Console.WriteLine("So you want to change the station? stations found from 88.5-107.9");
                     station = Convert.ToDouble(Console.ReadLine());
-                    Console.WriteLine(station);
+                    Console.WriteLine(station + " is your station");
                 }
                 else
                 {
@@ -52,7 +52,7 @@ namespace Ex_03
                     soundwaves = true;
                     Console.WriteLine("The volume seems to be wrong can you re-adjust it? Your volume goes from 1-10");
                     volume = Convert.ToInt32(Console.ReadLine());
-                    Console.WriteLine(volume);
+                    Console.WriteLine(volume + " is your volume level");
                 }
                 else
                 {
