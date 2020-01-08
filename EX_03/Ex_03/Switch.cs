@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace Ex_03
 {
-    class ITunable
+    class Switch
     {
+        public interface ISwitch
+        {
+            void toggle();
+        }
     }
 }

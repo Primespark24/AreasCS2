@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace Ex_03
 {
-    class ISwitch
+    class Tunable
     {
+        public interface ITunable
+        {
+            void tune();
+        }
     }
 }

@@ -43,8 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ISwitch.cs" />
-    <Compile Include="ITunable.cs" />
+    <Compile Include="Switch.cs" />
+    <Compile Include="Tunable.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Radio.cs" />
