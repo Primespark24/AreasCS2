@@ -6,6 +6,8 @@ using System.Runtime.Remoting.Channels;
 using System.Text;
 using System.Threading.Tasks;
 
+//code made and developed by Brycen Martin and Mason Caird
+
 namespace EX_04
 {
     class Program
