@@ -20,20 +20,7 @@ namespace Ex_03
             {
                 r.toggle();
                 Console.WriteLine("You hear the satisfying click of the switch and the static of the radio");
-                //do
-                //{
-                    r.tune();
-                 //   Console.WriteLine("Wanna continue? Yes or No");
-                 //   string response = Console.ReadLine();
-
-                    
-                 //   if (response.ToLower().Contains("no"))
-                 //   {
-                 //       quit = true;
-                 //   }
-
-              //  } while (!quit);
-                
+                r.tune();
             }
             else
             {

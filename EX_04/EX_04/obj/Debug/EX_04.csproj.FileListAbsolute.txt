@@ -1,0 +1,12 @@
+\\cs1\2022\bmartin22\CS-371-1\homework2\EX_04\EX_04\bin\Debug\EX_04.exe.config
+\\cs1\2022\bmartin22\CS-371-1\homework2\EX_04\EX_04\bin\Debug\EX_04.exe
+\\cs1\2022\bmartin22\CS-371-1\homework2\EX_04\EX_04\bin\Debug\EX_04.pdb
+\\cs1\2022\bmartin22\CS-371-1\homework2\EX_04\EX_04\obj\Debug\EX_04.csprojAssemblyReference.cache
+\\cs1\2022\bmartin22\CS-371-1\homework2\EX_04\EX_04\obj\Debug\EX_04.exe
+\\cs1\2022\bmartin22\CS-371-1\homework2\EX_04\EX_04\obj\Debug\EX_04.pdb
+Z:\bmartin22\CS-371-1\homework2\EX_04\EX_04\bin\Debug\EX_04.exe.config
+Z:\bmartin22\CS-371-1\homework2\EX_04\EX_04\bin\Debug\EX_04.exe
+Z:\bmartin22\CS-371-1\homework2\EX_04\EX_04\bin\Debug\EX_04.pdb
+Z:\bmartin22\CS-371-1\homework2\EX_04\EX_04\obj\Debug\EX_04.csprojAssemblyReference.cache
+Z:\bmartin22\CS-371-1\homework2\EX_04\EX_04\obj\Debug\EX_04.exe
+Z:\bmartin22\CS-371-1\homework2\EX_04\EX_04\obj\Debug\EX_04.pdb
