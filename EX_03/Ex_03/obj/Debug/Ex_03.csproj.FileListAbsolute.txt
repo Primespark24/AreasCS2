@@ -10,3 +10,9 @@ Z:\bmartin22\CS-371-1\homework2\EX_03\Ex_03\obj\Debug\Ex_03.pdb
 \\cs1\2022\bmartin22\CS-371-1\homework2\EX_03\Ex_03\obj\Debug\Ex_03.csprojAssemblyReference.cache
 \\cs1\2022\bmartin22\CS-371-1\homework2\EX_03\Ex_03\obj\Debug\Ex_03.exe
 \\cs1\2022\bmartin22\CS-371-1\homework2\EX_03\Ex_03\obj\Debug\Ex_03.pdb
+C:\Users\mcaird22\Desktop\EX_03\Ex_03\bin\Debug\Ex_03.exe.config
+C:\Users\mcaird22\Desktop\EX_03\Ex_03\bin\Debug\Ex_03.exe
+C:\Users\mcaird22\Desktop\EX_03\Ex_03\bin\Debug\Ex_03.pdb
+C:\Users\mcaird22\Desktop\EX_03\Ex_03\obj\Debug\Ex_03.csprojAssemblyReference.cache
+C:\Users\mcaird22\Desktop\EX_03\Ex_03\obj\Debug\Ex_03.exe
+C:\Users\mcaird22\Desktop\EX_03\Ex_03\obj\Debug\Ex_03.pdb
